@@ -1,1 +1,1 @@
-https://${YazhovaAlla}.github.io/cssBayan/cssBayan/index.html
+https://yazhovaalla.github.io/cssBayan/cssBayan/index.html
